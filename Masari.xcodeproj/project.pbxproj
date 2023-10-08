@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		7CFC3E922AD2F4A300AD7664 /* Eman2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7CFC3E912AD2F4A300AD7664 /* Eman2.swift */; };
 		FC28F6572AD2A38700FB31F9 /* MasariApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = FC28F6562AD2A38700FB31F9 /* MasariApp.swift */; };
 		FC28F6592AD2A38700FB31F9 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FC28F6582AD2A38700FB31F9 /* ContentView.swift */; };
 		FC28F65B2AD2A38800FB31F9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FC28F65A2AD2A38800FB31F9 /* Assets.xcassets */; };
@@ -34,6 +35,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		7CFC3E912AD2F4A300AD7664 /* Eman2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Eman2.swift; sourceTree = "<group>"; };
 		FC28F6532AD2A38700FB31F9 /* Masari.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Masari.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FC28F6562AD2A38700FB31F9 /* MasariApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MasariApp.swift; sourceTree = "<group>"; };
 		FC28F6582AD2A38700FB31F9 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -96,6 +98,7 @@
 			children = (
 				FC28F6562AD2A38700FB31F9 /* MasariApp.swift */,
 				FC28F6582AD2A38700FB31F9 /* ContentView.swift */,
+				7CFC3E912AD2F4A300AD7664 /* Eman2.swift */,
 				FC28F65A2AD2A38800FB31F9 /* Assets.xcassets */,
 				FC28F65C2AD2A38800FB31F9 /* Preview Content */,
 			);
@@ -257,6 +260,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7CFC3E922AD2F4A300AD7664 /* Eman2.swift in Sources */,
 				FC28F6592AD2A38700FB31F9 /* ContentView.swift in Sources */,
 				FC28F6572AD2A38700FB31F9 /* MasariApp.swift in Sources */,
 			);
